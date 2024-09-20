@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 abstract class Controller
 {
-    public function lla() {
-        
+    public function update() {
+        return 'lol';
     }
 }
